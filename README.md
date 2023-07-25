@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Project.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with DSA and competitive coding.<br>🌱 I’m currently learning frontend development.<br>💬 Ask me abou
+🔭 I’m currently pursuing B.E degree in Information Technology along with Honours in AIML.<br>👯 .<br>🤝 I’m looking for internship in MERN Stack.<br>🌱 I’m currently working on MERN Stack.<br>💬 Ask me abou
 
 
 ## 🌐 Socials:
